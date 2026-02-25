@@ -62,13 +62,9 @@ body{
 	text-decoration: none;
 }
 
-#siteNav a:first-child:before {
-	content: "← ";
-}
+#siteNav a:first-child:before { content: "← "; }
 
-#siteNav a:last-child:after{
-	content: " →";
-}
+#siteNav a:last-child:after{ content: " →"; }
 
 #siteNav a:hover{
 	text-decoration: underline;
